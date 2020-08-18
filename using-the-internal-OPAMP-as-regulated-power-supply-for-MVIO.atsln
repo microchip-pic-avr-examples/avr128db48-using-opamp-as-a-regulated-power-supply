@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "monitoring-OPAMP-output-with-ADC", "monitoring-OPAMP-output-with-ADC\monitoring-OPAMP-output-with-ADC.cproj", "{A02DFB67-3C81-41A2-994F-9890C9C13632}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "using-external-resistors", "using-external-resistors\using-external-resistors.cproj", "{23BD453D-BA6C-498B-8604-964BC725C011}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "using-internal-DAC", "using-internal-DAC\using-internal-DAC.cproj", "{C87144B6-B31C-4947-946D-722B8E45F191}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "using-internal-resistor-ladder", "using-internal-resistor-ladder\using-internal-resistor-ladder.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A02DFB67-3C81-41A2-994F-9890C9C13632}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A02DFB67-3C81-41A2-994F-9890C9C13632}.Debug|AVR.Build.0 = Debug|AVR
+		{A02DFB67-3C81-41A2-994F-9890C9C13632}.Release|AVR.ActiveCfg = Release|AVR
+		{A02DFB67-3C81-41A2-994F-9890C9C13632}.Release|AVR.Build.0 = Release|AVR
+		{23BD453D-BA6C-498B-8604-964BC725C011}.Debug|AVR.ActiveCfg = Debug|AVR
+		{23BD453D-BA6C-498B-8604-964BC725C011}.Debug|AVR.Build.0 = Debug|AVR
+		{23BD453D-BA6C-498B-8604-964BC725C011}.Release|AVR.ActiveCfg = Release|AVR
+		{23BD453D-BA6C-498B-8604-964BC725C011}.Release|AVR.Build.0 = Release|AVR
+		{C87144B6-B31C-4947-946D-722B8E45F191}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C87144B6-B31C-4947-946D-722B8E45F191}.Debug|AVR.Build.0 = Debug|AVR
+		{C87144B6-B31C-4947-946D-722B8E45F191}.Release|AVR.ActiveCfg = Release|AVR
+		{C87144B6-B31C-4947-946D-722B8E45F191}.Release|AVR.Build.0 = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
