@@ -18,6 +18,8 @@ A new feature introduced in the AVR-DB is the Analog Signal Conditioning (OPAMP)
 
 * [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
 * Atmel Studio AVR-DB_DFP version 1.2.56 or later
+* For the MPLAB® X version of these projects, please go to [this repository](https://github.com/microchip-pic-avr-examples/avr128db48-using-opamp-as-a-regulated-power-supply-mplab)
+
 ## Hardware Used
 
 * [AVR128DB48 Curiosity Nano](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/EV35L43A) <!-- Not the correct link, fix when curiosity nano page exists-->
