@@ -54,7 +54,7 @@ void dac_set_voltage(float v_out)
 	{
 		v_out=VDD-1;
 	}
-	volatile uint16_t data = (v_out/VDD)*1023;
+	uint16_t data = (v_out/VDD)*1023;
 	DAC0.DATA = data << DAC_DATA_gp;
 }
 
