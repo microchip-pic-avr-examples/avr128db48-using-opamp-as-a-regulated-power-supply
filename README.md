@@ -11,7 +11,7 @@ A new feature introduced in the AVR® DB family is the Analog Signal Conditionin
 
 ## Related Documentation
 
-* [ANxxxx - AVR128DB48 Using the Internal OPAMP as Regulated Power Supply for MVIO](https://microchip.com/DSxxxxxxxxxx) <!--fill in DS number once it has been assigned-->
+* [AN3636 - AVR128DB48 Using the Internal OPAMP as Regulated Power Supply for MVIO](https://microchip.com/DS00003636) 
 * [AVR128DB48 device page](https://www.microchip.com/wwwproducts/en/AVR128DB48)
 * AVR128DB48 Curiosity Nano User Guide (link will be added once available)
 
@@ -23,14 +23,14 @@ A new feature introduced in the AVR® DB family is the Analog Signal Conditionin
 
 ## Hardware Used
 
-* [AVR128DB48 Curiosity Nano](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/EV35L43A) <!-- Not the correct link, fix when curiosity nano page exists-->
+* [AVR128DB48 Curiosity Nano](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/EV35L43A)
 * Two resistors (values based on desired voltage level)
 
 
 ## Setup
 
 ->
-* Enable MVIO powered by internal op-amps on the development board, see [application note](https://microchip.com/DSxxxxxxxxxx) for each respective scenario <!--fill in DS number once it has been assigned-->
+* Enable MVIO powered by internal op-amps on the development board, see [application note](https://microchip.com/DS00003636) for each respective scenario 
 * Enable Dual Supply mode in the System Configuration 1 (SYSCFG1) fuse
 
 ## Operation
